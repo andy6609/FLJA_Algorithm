@@ -1,6 +1,8 @@
 # FLJA_Algorithm
 플자 알고리즘 레포지토리
 
+### README 마음에 안드시면 그냥 수정하셔도 됩니다.
+
 <a href="https://www.notion.so/hyokikomori/Algorithm-Study-eeab1b7059824f96b2733d6bc7218428?pvs=4">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-flat&amp;logo=notion&amp;logoColor=white" alt="Notion">
 </a>
@@ -42,7 +44,7 @@
     <td align="center"><a href="https://github.com/JINSU-JEONG1)"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><b>jinny-l</b></a></td>
+    <td align="center"><a href="https://github.com/JINSU-JEONG1"><b>JINSU-JEONG1</b></a></td>
   </tr>
   <tr> 
   </tr> 
@@ -68,6 +70,12 @@
 1. 이 저장소를 `fork` 한다.
 2. 생성된 저장소에 `Github ID`로 폴더를 생성한다.
 3. 알고리즘 풀이 후 원본 저장소에 `PR`를 보낸다.
+
+## 🗂️ 진행 방법
+1. 해당 책으로 진행합니다. 
+![algo_with_python](https://github.com/user-attachments/assets/4314c0a5-8b46-4735-9d0a-d5bfc7c08310)
+2. 매주 정해진 주제를 개인적으로 공부하시고 개인적으로 생성한 폴더에 공부한 내용을 올려주시면됩니다. 
+3. 매주 공통 2~3 문제를 정해서 풀이한 코드를 개인이 생성한 폴더에 올려주시면됩니다.
 
 <br/>
 
