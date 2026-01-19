@@ -72,10 +72,13 @@
 3. 알고리즘 풀이 후 원본 저장소에 `PR`를 보낸다.
 
 ## 🗂️ 진행 방법
-1. 해당 책으로 진행합니다. 
+1. 해당 책으로 진행합니다.
+   
 ![algo_with_python](https://github.com/user-attachments/assets/4314c0a5-8b46-4735-9d0a-d5bfc7c08310)
-2. 매주 정해진 주제를 개인적으로 공부하시고 개인적으로 생성한 폴더에 공부한 내용을 올려주시면됩니다. 
-3. 매주 공통 2~3 문제를 정해서 풀이한 코드를 개인이 생성한 폴더에 올려주시면됩니다.
+<img src="[https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white](https://github.com/user-attachments/assets/4314c0a5-8b46-4735-9d0a-d5bfc7c08310)"> 
+
+3. 매주 정해진 주제를 개인적으로 공부하시고 개인적으로 생성한 폴더에 공부한 내용을 올려주시면됩니다. 
+4. 매주 공통 2~3 문제를 정해서 풀이한 코드를 개인이 생성한 폴더에 올려주시면됩니다.
 
 <br/>
 
